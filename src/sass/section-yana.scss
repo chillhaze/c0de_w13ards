@@ -1,0 +1,32 @@
+.section {
+  background-color: #607c97;
+  padding: 50px;
+  margin: auto;
+  font-size: 16px;
+  font-style: italic;
+  letter-spacing: 0.06rem;
+
+  &-title {
+    max-width: 300px;
+    color: rgb(231, 130, 15);
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 2px solid rgb(136, 92, 63);
+    border-radius: 8px;
+    background-color: rgb(73, 71, 68);
+  }
+
+  &-text {
+    color: yellow;
+    margin: auto;
+    text-align: center;
+  }
+
+  &-link {
+    color: rgb(215, 230, 19);
+    border: 2px solid rgb(31, 49, 3);
+    border-radius: 8px;
+    background-color: rgb(180, 92, 10);
+  }
+}
