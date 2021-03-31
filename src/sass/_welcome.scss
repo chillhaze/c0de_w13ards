@@ -4,12 +4,20 @@
   background-color: teal;
 }
 
+.welcome-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .welcome__title {
   margin-bottom: 30px;
   color: #fff;
 }
 
 .link-welcome{
+  display: block;
   padding: 5px 50px;
 
   color: #fff;
