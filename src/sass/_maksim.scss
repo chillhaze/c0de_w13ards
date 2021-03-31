@@ -1,0 +1,28 @@
+.maksim {
+  padding: 50px 0;
+  text-align: center;
+  background-color: rgb(0, 30, 128);
+}
+
+.maksim-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.maksim__title {
+  margin-bottom: 40px;
+  color: #fff;
+}
+
+.link-maksim {
+  display: block;
+  padding: 5px 50px;
+
+  color: #fff;
+  background-color: palevioletred;
+
+  border: 1px solid teal;
+  border-radius: 10px;
+}
