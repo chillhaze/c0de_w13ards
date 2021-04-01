@@ -1,0 +1,33 @@
+.funny {
+  background-color: #607c97;
+  padding: 50px;
+  margin: auto;
+  font-size: 16px;
+  font-style: italic;
+  letter-spacing: 0.06rem;
+}
+
+.funny-title {
+  max-width: 300px;
+  color: #e7820f;
+  margin: auto;
+  margin-bottom: 30px;
+  text-align: center;
+  border: 2px solid #885c3f;
+  border-radius: 8px;
+  background-color: #494744;
+}
+
+.funny-text {
+  color: yellow;
+  margin: auto;
+  text-align: center;
+}
+
+.funny-link {
+  color: #d7e613;
+  border: 2px solid #1f3103;
+  border-radius: 8px;
+  background-color: #b45c0a;
+}
+/*# sourceMappingURL=section-yana.css.map */
