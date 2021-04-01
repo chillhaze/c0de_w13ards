@@ -205,4 +205,28 @@ body {
   background-color: black;
   border-radius: 50px;
 }
+
+.welcome--semak {
+  background-color: burlywood;
+}
+
+.aero {
+  padding: 50px 10px;
+  text-align: center;
+  background-color: #706065;
+}
+
+.aero__title {
+  text-transform: capitalize;
+  margin-bottom: 30px;
+  color: #fff;
+  font-weight: 700;
+}
+
+.aero__link {
+  border: 1px solid palegoldenrod;
+  background-color: palegoldenrod;
+  padding: 5px 20px;
+  border-radius: 4px;
+}
 /*# sourceMappingURL=main.css.map */
